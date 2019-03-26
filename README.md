@@ -1,7 +1,7 @@
 # ICNS-CoLD
 **CoLD: Cortical Layer Discrimination**
 
-This repository contains the code associated to:
+This repository contains the Matlab code associated to our publication:
 
 ```
 @article {Li427955,
@@ -17,6 +17,8 @@ This repository contains the code associated to:
 }
 ```
 
+Example data can be downloaded from: XXX insert link XXX.
+
 ## Requirements
 The code has been tested with Matlab XXX on Ubuntu 16.04 LTS. The following Matlab XXX packages are required (lower versions may also be sufficient):
 - numpy>=1.14.5
@@ -24,3 +26,5 @@ The code has been tested with Matlab XXX on Ubuntu 16.04 LTS. The following Matl
 - tensorflow-gpu>=1.9.0
 - SimpleITK>=1.1.0
 - h5py>=2.8.0
+
+## Basic Usage
