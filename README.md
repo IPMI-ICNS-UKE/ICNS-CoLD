@@ -1,5 +1,5 @@
 # ICNS-CoLD
-CoLD: Cortical Layer Discrimination
+**CoLD: Cortical Layer Discrimination**
 
 This repository contains the code associated to:
 
@@ -11,7 +11,7 @@ This repository contains the code associated to:
 	year = "2018",
 	doi = "10.1101/427955",
 	publisher = "Cold Spring Harbor Laboratory",
-  URL = "https://www.biorxiv.org/content/early/2018/09/26/427955",
+  	URL = "https://www.biorxiv.org/content/early/2018/09/26/427955",
 	eprint = "https://www.biorxiv.org/content/early/2018/09/26/427955.full.pdf",
 	journal = "bioRxiv"
 }
