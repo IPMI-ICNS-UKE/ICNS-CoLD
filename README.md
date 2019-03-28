@@ -21,7 +21,7 @@ Example data can be downloaded here:
 
 [Download link for CoLD example data](https://icns-nas1.uke.uni-hamburg.de/owncloud/index.php/s/VPHhQk6WSmgoe2b)
 
-In case of usage of our code and data, we expect the publication to be cited.
+In case of usage of our code or data, we expect the above publication to be cited.
 
 ## Requirements
 The code has been tested with Matlab R2018a on macOS Mojave 10.14.3. 
