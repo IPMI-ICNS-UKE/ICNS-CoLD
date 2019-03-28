@@ -17,14 +17,29 @@ This repository contains the Matlab code associated to our publication:
 }
 ```
 
-Example data can be downloaded from: XXX insert link XXX.
+Example data can be downloaded here: 
+
+[Download link for CoLD example data](https://icns-nas1.uke.uni-hamburg.de/owncloud/index.php/s/VPHhQk6WSmgoe2b)
+
+In case of usage of our code and data, we expect the publication to be cited.
 
 ## Requirements
-The code has been tested with Matlab XXX on Ubuntu 16.04 LTS. The following Matlab XXX packages are required (lower versions may also be sufficient):
+The code has been tested with Matlab R2018a on macOS Mojave 10.14.3. 
+<!---  XXX on Ubuntu 16.04 LTS The following Matlab XXX packages are required (lower versions may also be sufficient):
 - numpy>=1.14.5
 - keras>=2.2.0
 - tensorflow-gpu>=1.9.0
 - SimpleITK>=1.1.0
-- h5py>=2.8.0
+- h5py>=2.8.0 --->
 
 ## Basic Usage
+
+- Download the example data (see above link). 
+- Add subroutine folders (see below) to your Matlab environment.
+- Run respective scripts.
+- Send us a message in case of problems.
+
+The folder **./discrimination** contains the scripts to reproduce cortical layer. The main is script is the **Discrimination_Main_Code.m** file. The subfolder **./discrimination/subroutine_discrimination** has to be integrated into the Matlab environment. 
+
+The folders **./evaluationclustering** and **./evaluationsupervisedlearning** contain the scripts to evaluate the unsupervised clustering and supervised learning results, respectively.
+
