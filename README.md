@@ -24,7 +24,7 @@ Example data can be downloaded here:
 In case of usage of our code or data, we expect the above publication to be cited.
 
 ## Requirements
-The code has been tested with Matlab R2018a on macOS Mojave 10.14.3. 
+The code has been tested with Matlab R2017a on Windows 10. 
 <!---  XXX on Ubuntu 16.04 LTS The following Matlab XXX packages are required (lower versions may also be sufficient):
 - numpy>=1.14.5
 - keras>=2.2.0
