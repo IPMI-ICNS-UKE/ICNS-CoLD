@@ -1,7 +1,7 @@
 # ICNS-CoLD
 **CoLD: Cortical Layer Discrimination**
 
-This repository contains the Matlab code associated to our publication:
+This repository contains the Matlab code associated to our manuscript *Discrimination of the hierarchical structure of cortical layers in 2-photon microscopy data by combined unsupervised and supervised machine learning*, which has been accepted for publication in *Scientific Reports*. Until final publication, please find the manuscript via bioRxiv and cite the respective document:
 
 ```
 @article {Li427955,
