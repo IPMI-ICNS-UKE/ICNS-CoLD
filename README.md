@@ -1,19 +1,19 @@
 # ICNS-CoLD
 **CoLD: Cortical Layer Discrimination**
 
-This repository contains the Matlab code associated to our manuscript *Discrimination of the hierarchical structure of cortical layers in 2-photon microscopy data by combined unsupervised and supervised machine learning*, which has been accepted for publication in *Scientific Reports*. Until final publication, please find the manuscript via bioRxiv and cite the respective document:
+This repository contains the Matlab code associated to our manuscript *Discrimination of the hierarchical structure of cortical layers in 2-photon microscopy data by combined unsupervised and supervised machine learning*, published in *Scientific Reports*:
 
 ```
-@article {Li427955,
-	author = "Li, Dong and Zavaglia, Melissa and Wang, Guangyu and Hu, Yi and Xie, Hong and Werner, Rene and Guan, Ji-Song and Hilgetag, Claus C.",
-	title = "Discrimination of the hierarchical structure of cortical layers in 2-photon microscopy data by combined unsupervised and supervised machine learning",
-	elocation-id = "427955",
-	year = "2018",
-	doi = "10.1101/427955",
-	publisher = "Cold Spring Harbor Laboratory",
-  	URL = "https://www.biorxiv.org/content/early/2018/09/26/427955",
-	eprint = "https://www.biorxiv.org/content/early/2018/09/26/427955.full.pdf",
-	journal = "bioRxiv"
+@article{Li2019,
+	author = {Li, Dong and Zavaglia, Melissa and Wang, Guangyu and Hu, Yi and Xie, Hong and Werner, Rene and Guan, Ji-Song and Hilgetag, Claus C.},
+	title = {Discrimination of the hierarchical structure of cortical layers in 2-photon microscopy data by combined unsupervised and supervised machine learning},
+	journal = {{S}cientific {R}eports},
+	year = {2018},
+	volume = {9},
+	number = {1},
+	pages = {7424},
+	doi = {10.1038/s41598-019-43432-y},
+  	URL = {https://doi.org/10.1038/s41598-019-43432-y}
 }
 ```
 
