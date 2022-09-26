@@ -1,7 +1,7 @@
 # ICNS-CoLD
 **CoLD: Cortical Layer Discrimination**
 
-This repository contains the Matlab code associated to our manuscript *Discrimination of the hierarchical structure of cortical layers in 2-photon microscopy data by combined unsupervised and supervised machine learning*, published in *Scientific Reports*:
+This repository contains the Matlab code and example data associated to our manuscript *Discrimination of the hierarchical structure of cortical layers in 2-photon microscopy data by combined unsupervised and supervised machine learning*, published in *Scientific Reports*:
 
 ```
 @article{Li2019,
@@ -17,10 +17,6 @@ This repository contains the Matlab code associated to our manuscript *Discrimin
 }
 ```
 
-Example data can be downloaded here: 
-
-[Download link for CoLD example data](https://icns-nas1.uke.uni-hamburg.de/owncloud/index.php/s/VPHhQk6WSmgoe2b)
-
 In case of usage of our code or data, we expect the above publication to be cited.
 
 ## Requirements
@@ -31,6 +27,9 @@ The code has been tested with Matlab R2017a on Windows 10.
 - tensorflow-gpu>=1.9.0
 - SimpleITK>=1.1.0
 - h5py>=2.8.0 --->
+
+The image data are further made available using [git-lfs](https://git-lfs.github.com/).  
+Before cloning the repository, please ensure that you installed git-lfs.
 
 ## Basic Usage
 
@@ -43,3 +42,4 @@ The folder **./discrimination** contains the scripts to reproduce cortical layer
 
 The folders **./evaluationclustering** and **./evaluationsupervisedlearning** contain the scripts to evaluate the unsupervised clustering and supervised learning results, respectively.
 
+The folder **./exampledata** contains example image data: the raw data and preprocessed data using the vignetting correction approach described [here](https://www.frontiersin.org/articles/10.3389/fninf.2021.674439/full); cf. the corresponding [github repository](https://github.com/IPMI-ICNS-UKE/VignettingCorrection). 
