@@ -1,0 +1,4 @@
+SciRepExampleData_1_vignetting correction .tif
+is the further modified image by using the method pulished in 
+"Li D, Wang G, Werner R, Xie H, Guan J-S and Hilgetag CC (2022) Single Image-Based Vignetting Correction for Improving
+the Consistency of Neural Activity Analysis in 2-Photon Functional Microscopy.Front. Neuroinform. 15:674439. doi: 10.3389/fninf.2021.674439"
